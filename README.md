@@ -1,2 +1,2 @@
 # Matrix-Analysis
-Just a new repository
+Solving a geometry problem using matrices in Numpy.
